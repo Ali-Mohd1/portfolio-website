@@ -2,7 +2,7 @@
 
 ### [Watch full tutorial on youtube](https://youtu.be/SVtN5sXMa4k)
 
-### Portfolio responsive website home section
+### Complete responsive portfolio website
 
 Landing page responsive portfolio website PLEASE change portfolio images according to your projects thanks!
 
