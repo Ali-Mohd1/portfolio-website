@@ -87,7 +87,7 @@ btn.on('click', function(e) {
     ScrollReveal().reveal('.about-heading');
     ScrollReveal().reveal('.about2', { delay: 100 });
     ScrollReveal().reveal('.about3', { delay: 200 });
-    ScrollReveal().reveal('.about-btn', { delay: 300 });
+    ScrollReveal().reveal('.about-btn-blk', { delay: 300 });
     // CTA
     ScrollReveal().reveal('.cta-inner', { delay: 100 })
     ScrollReveal().reveal('.btn-outline', { delay: 200 });

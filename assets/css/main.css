@@ -966,6 +966,9 @@ body.darkmode .close-icon svg path {
 body.darkmode label.error {
   color: #f84747;
 }
+body.darkmode a.btn-default {
+  color: var(--color-black) !important;
+}
 /* media queries */
 @media (max-width: 767px) {
   .container {
